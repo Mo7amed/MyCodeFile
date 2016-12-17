@@ -1,0 +1,281 @@
+
+body{
+    width: 100%;
+    background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/gradient-wallpaper-1.jpg) fixed no-repeat;
+    background-position: 90% 20%; 
+    }
+    .headcontent{
+
+    }
+    .topheader{
+        width: 1017px;
+        height: 150px;
+        margin: 0px auto 0 auto;
+        background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/men_header2.png)  no-repeat;
+        z-index: 1;
+        position: relative;
+
+    }
+        .topheader .topheaderitems{
+            width: 780px;
+            margin: 0 auto;
+            height: 30px;
+            padding-top: 2px;
+    }
+            .topheader .topheaderitems .rightitems{
+                float: right;
+            } 
+                .topheader .topheaderitems .rightitems p{
+                    display: inline-block;
+                    color: #fff;
+                    padding: 19px 10px 0 10px;
+                    font:normal 14px &#39;Mada&#39;, sans-serif;
+                }
+
+        .topheader .topheaderitems .social{
+            float: left;
+        }  
+            .topheader .topheaderitems .social .sociallinks li{
+                float: right;
+                padding: 17px 0px 0 5px;
+            }
+                .topheader .topheaderitems .social .sociallinks #searchbox {
+                    background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/search-box.png) no-repeat;
+                    height: 32px;
+                    width: 202px;
+                    margin-left: 7px;
+                    direction: ltr;
+                    margin-top: -6px;
+
+                }
+                    .topheader .topheaderitems .social .sociallinks #searchbox input[type=&quot;text&quot;] {
+                        background: transparent;
+                        margin: 0px 0px 0px 12px;
+                        padding: 11px 0px 5px 0px;
+                        border-width: 0px;
+                        font-family: &quot;Arial Narrow&quot;, Arial, sans-serif;
+                        font-size: 14px;
+                        font-style: italic;
+                        width: 77%;
+                        color: #828282;
+                        display: inline-table;
+                        vertical-align: top;
+                        outline: none;
+                        height: 
+                    }
+                    .topheader .topheaderitems .social .sociallinks #searchbox #searchbox input[type=&quot;text&quot;]:focus {
+                    color: #fff;
+                    }
+                    .topheader .topheaderitems .social .sociallinks #button-submit {
+                        cursor: pointer;
+                        width: 40px;
+                        height: 50px;
+                        background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/search-icon.png) no-repeat;
+                        margin-left: -40px;
+                        border-width: 0px;
+                        margin-top: -4px;
+                    }
+                    .topheader .topheaderitems .social .sociallinks #button-submit:hover {
+                    background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/search-icon-hover.png);
+                    }
+
+
+        .topheader .headernav{
+            width: 1017px;
+            margin: 25px auto 0 auto;
+            overflow: hidden;
+            padding-top: 10px;        
+        }
+            .topheader .headernav nav{
+                width: 1000px;
+            }
+                .topheader .headernav nav .nagigation{
+                }
+                    .topheader .headernav nav .nagigation li,.topheader .headernav nav .nagigation2 li{
+                        float: right;
+                        width: 100px;
+                        margin-right: 25px;
+                    } 
+                    .topheader .headernav nav .nagigation2 li{
+                        float: left;
+                    }
+                    .topheader .headernav nav .nagigation2 li:nth-child(2){
+                        padding: 0 10px 0 0;
+                    }
+
+                        .topheader .headernav nav .nagigation li a,.topheader .headernav nav .nagigation2 li a{
+                            display: block;
+                            padding: 0px 0px 0 0px;
+                            color: #fff;
+                            text-decoration: none;
+                            font:normal 22px &#39;Mada&#39;, sans-serif; 
+                            text-align: center;
+                            transition: all .4s ease-in-out;
+                        }                    
+                        .topheader .headernav nav .nagigation a:hover,.topheader .headernav nav .nagigation2 a:hover{
+                            color: #000;
+                        }
+
+
+.banner #wowslider-container0{
+    width: 1000px;
+    z-index: 0;
+    margin: -35px auto 0 auto;
+}
+
+.wrapper .container{
+    width: 100%;
+    height: 880px;
+    background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/back3.jpg) no-repeat;
+    z-index: 0;
+    margin: -20px 0 10px 0 ;
+    padding: 25px 0 0 0;
+    transition: all .4s ease-in-out;
+}
+    .wrapper .container .whoweare{
+        width: 1000px;
+        margin: 0 auto;
+
+    }
+        .wrapper .container .whoweare h1{
+            text-align: center;
+            color: #bebebe;
+            font:normal 35px &#39;El Messiri&#39;, sans-serif;
+            line-height: 50px;
+            text-shadow: 4px 5px 10px #000000;
+
+        }
+    .wrapper .container .aboutus{
+        width: 1000px;
+        margin: 0 auto;
+    }
+        .wrapper h1.name{
+            color: #db9494;
+            font:bold 50px &#39;El Messiri&#39;, sans-serif;
+            text-shadow: 4px 5px 10px #000000;
+            width: 370px;
+            transition: all .4s ease-in-out;
+            margin: 30px auto 30px auto;
+        }
+        .wrapper .container .aboutus h1.name:hover{
+            text-shadow: 4px 5px 10px #716666;
+        }
+
+        .wrapper .container .aboutus .block1 {
+            width: 307px;
+            background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/About1.png);
+            height: 525px;
+            float: right;    
+            margin-left: 20px;
+        }
+        .wrapper .container .aboutus .block2 {
+            width: 307px;
+            background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/About2.png);
+            height: 525px;
+            float: right; 
+            margin-left: 20px;
+        }
+        .wrapper .container .aboutus .block3 {
+            width: 307px;
+            background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/About3.png);
+            height: 525px;
+            float: right; }
+
+        .wrapper .container .aboutus .block1 h1,.wrapper .container .aboutus .block2 h1,.wrapper .container .aboutus .block3 h1{
+            color: #0f0d0d;
+            font:normal 20px &#39;Mada&#39;, sans-serif; 
+
+            text-shadow: 4px 2px 5px #394069;
+            margin:130px 20px 0 0;
+            width: 270px;
+            text-align: center;
+            transition: all .4s ease-in-out;
+        }
+        .wrapper .container .aboutus h1:hover{
+            text-shadow: 1px 2px 5px #ccc;
+        }
+
+.wrapper .project{
+    width: 1000px;
+    height: 730px;
+    margin: 0 auto 00px auto;
+    perspective: 1000px;
+}
+.wrapper .project img{
+    width: 300px;
+    height: 180px;
+    margin: 5px 5px 0px 5px;
+    transition: all .5s ease-in-out;
+    opacity: 1;
+    box-shadow: -0px -5px 10px #080505;
+    
+}
+.wrapper .project img:hover{
+    opacity: .5;
+    box-shadow: -0px -5px 10px #362929;
+    padding: 0 5px 0 5px;
+    transform: scale(1.1);
+}
+.block-project{
+    position: relative;
+    float: right;
+    transition: all .5s ease-in-out;
+/*
+    border-left: solid 2px rgba(62, 62, 62, 0.3);
+    border-right: solid 2px rgba(62, 62, 62, 0.3);
+    border-bottom: solid 2px rgba(62, 62, 62, 0.3);
+*/
+    padding: 4px;
+}
+.block-project:hover .title{
+    opacity: 1;
+    visibility: visible;
+    
+}
+
+.block-project .title{
+    position: absolute;
+    padding: 30px;
+    bottom: 20px;
+    right: 20px;
+    width: 280px;
+    height: 150px;
+    color: #ffffff;
+    text-shadow: 4px 5px 5px #395767;
+    opacity: 0;
+    transition: opacity 1.5s ease-in-out;
+    display: hidden;
+    background: rgba(0, 0, 0, 0.55);
+    border-bottom-left-radius: 5px; 
+    border-bottom-right-radius: 5px ;
+    text-align: center;
+}
+.block-project h1{
+    font:normal 30px &#39;El Messiri&#39;, sans-serif;
+    
+}
+.block-project span{
+    color: #d3d331;
+    font:normal 14px &#39;El Messiri&#39;, sans-serif;
+    text-shadow: 1px 1px 5px 10px #000000; 
+}
+/*
+.block-project h1:hover{
+    color: aqua;
+}
+*/
+
+.wrapper .ourworks{
+    width: 100%;
+    height: 800px;
+    background: url(https://rawgit.com/Mo7amed/MyCodeFile/master/Back-about.jpg);
+}
+
+.wrapper .ourworks h1.name{
+    width: 280px;
+    margin: 30px auto 60px auto;
+    padding: 20px 0 0 0;
+    color: #bebebe;
+    font:bold 51px &#39;El Messiri&#39;, sans-serif;
+    text-shadow: 10px 5px 10px #1b1818;
+}
